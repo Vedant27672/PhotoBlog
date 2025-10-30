@@ -1,6 +1,6 @@
 # 📸 PhotoBlog
 
-Deployed: **[Your Deployment Link Here]** (e.g., https://vedant27672.github.io/PhotoBlog)
+Deployed: *\https://photo-blog-webb.netlify.app**
 
 ---
 
@@ -14,6 +14,7 @@ Deployed: **[Your Deployment Link Here]** (e.g., https://vedant27672.github.io/P
 
 - **HTML5** (Structure)
 - **CSS3** (Styling, layout, and visual effects)
+- **JavaScript** (Minor interactivity, such as a modal gallery or lazy loading, if present)
 - **Responsive Design** (Ensuring optimal viewing on mobile, tablet, and desktop screens)
 
 ---
