@@ -1,6 +1,6 @@
 # 📸 PhotoBlog
 
-Live Demo : *https://photo-blog-webb.netlify.app**
+Live Demo : *https://photo-blog-web.netlify.app**
 
 ---
 
